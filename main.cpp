@@ -32,7 +32,7 @@ void print(struct tree* node){
 }
 
 int main(){
-    cout << "NAME ALPHABETIZER!\nto finish, enter a number.\n\n";
+    cout << "NAME ALPHABETIZER!\nenter a number to finish.\n\n";
     struct tree* root = nullptr;
     string name = "x";
     cout << "name: ";
